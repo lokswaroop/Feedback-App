@@ -1,0 +1,24 @@
+/* Write your CSS code here. */
+.bg {
+  background-color: #ffc0bb;
+  height: 100vh;
+}
+
+.card {
+  background-color: #ffffff;
+  height: 300px;
+  width: 500px;
+}
+.image {
+  height: 100px;
+  width: 100px;
+}
+.con {
+  display: flex;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
